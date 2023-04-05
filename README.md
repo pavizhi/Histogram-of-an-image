@@ -23,8 +23,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 
-## Developed By:
-## Register Number:
+## Developed By:B.Pavizhi
+## Register Number:212221230077
 
 ## Write your code to find the histogram of gray scale image and color image channels.
 ```
